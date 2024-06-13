@@ -1,0 +1,36 @@
+    body {
+        margin: 20px;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
+        transition: background-color 0.5s;
+    }
+
+    h1 {
+        color: #333;
+        font-size: 40px;
+    }
+
+    .label {
+        font-size: 24px;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    .inp {
+        font-weight: bold;
+        font-size: 20px;
+        padding: 10px;
+        text-align: center;
+        width: 200px;
+    }
+
+    .input-div {
+        display: inline-block;
+        margin: 20px;
+    }
+
+    #value {
+        font-size: 30px;
+        margin-top: 20px;
+        display: block;
+    }
